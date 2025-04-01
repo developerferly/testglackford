@@ -1,0 +1,133 @@
+[21:46:53] [main/INFO]: Loading Minecraft 1.21.1 with Quilt Loader 0.28.1
+[21:46:53] [main/INFO]: Loading mappings: jar:file:/C:/Users/Max/PycharmProjects/testglackford/server/libraries/org/quiltmc/hashed/1.21.1/hashed-1.21.1.jar!/mappings/mappings.tiny
+[21:46:53] [main/INFO]: Skipping mappings: Missing namespace 'intermediary'
+[21:46:53] [main/INFO]: Loading mappings: jar:file:/C:/Users/Max/PycharmProjects/testglackford/server/libraries/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar!/mappings/mappings.tiny
+[21:46:55] [main/INFO]: Loading 45 mods:
+| Index | Mod                                    | ID                                   | Version            | Type    | File Hash (SHA-1)                        | File(s)                                                                                 | Sub-File                                                        |
+|------:|----------------------------------------|--------------------------------------|--------------------|---------|------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+|    39 | Axiom                                  | axiom                                | 4.7.1              | Fabric  | f729b4a2de68174eaae6f3294e4f72f1fd798a14 | <mods>\Axiom-4.7.1-for-MC1.21.jar                                                       |                                                                 |
+|     1 | axiomclientapi                         | com_moulberry_axiomclientapi         | 1.0.0              | Fabric  | f729b4a2de68174eaae6f3294e4f72f1fd798a14 | <mods>\Axiom-4.7.1-for-MC1.21.jar                                                       | /META-INF/jars/axiomclientapi-1.0.0.jar                         |
+|     5 | Fabric API                             | fabric-api                           | 0.115.4+1.21.1     | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    |                                                                 |
+|    23 | Fabric API Base                        | fabric-api-base                      | 0.4.42+6573ed8cd1  | Fabric  | 294d5e52285315c896fbfa45c1829ff43650522f | <mods>\worldedit-mod-7.3.5.jar                                                          | /META-INF/jars/fabric-api-base-0.4.42+6573ed8cd1.jar            |
+|    22 | Fabric API Lookup API (v1)             | fabric-api-lookup-api-v1             | 1.6.70+b559734419  | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-api-lookup-api-v1-0.115.4.jar             |
+|    21 | Fabric Biome API (v1)                  | fabric-biome-api-v1                  | 13.0.31+d527f9fd19 | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-biome-api-v1-0.115.4.jar                  |
+|     8 | Fabric Block API (v1)                  | fabric-block-api-v1                  | 1.0.22+0af3f5a719  | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-block-api-v1-0.115.4.jar                  |
+|     3 | Fabric BlockView API (v2)              | fabric-block-view-api-v2             | 1.0.11+ebb2264e19  | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-block-view-api-v2-0.115.4.jar             |
+|    14 | Fabric Command API (v1)                | fabric-command-api-v1                | 1.2.49+f71b366f19  | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-command-api-v1-0.115.4.jar                |
+|    32 | Fabric Command API (v2)                | fabric-command-api-v2                | 2.2.28+6ced4dd919  | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-command-api-v2-0.115.4.jar                |
+|     4 | Fabric Commands (v0)                   | fabric-commands-v0                   | 0.2.66+df3654b319  | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-commands-v0-0.115.4.jar                   |
+|    18 | Fabric Content Registries (v0)         | fabric-content-registries-v0         | 8.0.18+b559734419  | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-content-registries-v0-0.115.4.jar         |
+|    40 | Fabric Convention Tags                 | fabric-convention-tags-v1            | 2.1.4+7f945d5b19   | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-convention-tags-v1-0.115.4.jar            |
+|    36 | Fabric Convention Tags (v2)            | fabric-convention-tags-v2            | 2.11.0+a406e79519  | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-convention-tags-v2-0.115.4.jar            |
+|    10 | Fabric Crash Report Info (v1)          | fabric-crash-report-info-v1          | 0.2.29+0af3f5a719  | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-crash-report-info-v1-0.115.4.jar          |
+|    33 | Fabric Data Attachment API (v1)        | fabric-data-attachment-api-v1        | 1.4.1+9ed317f519   | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-data-attachment-api-v1-0.115.4.jar        |
+|    42 | Fabric Data Generation API (v1)        | fabric-data-generation-api-v1        | 20.2.28+16c4ae2519 | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-data-generation-api-v1-0.115.4.jar        |
+|    13 | Fabric Dimensions API (v1)             | fabric-dimensions-v1                 | 4.0.0+6fc22b9919   | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-dimensions-v1-0.115.4.jar                 |
+|     7 | Fabric Entity Events (v1)              | fabric-entity-events-v1              | 1.7.0+2122d82819   | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-entity-events-v1-0.115.4.jar              |
+|    15 | Fabric Events Interaction (v0)         | fabric-events-interaction-v0         | 0.7.13+ba9dae0619  | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-events-interaction-v0-0.115.4.jar         |
+|    43 | Fabric Game Rule API (v1)              | fabric-game-rule-api-v1              | 1.0.53+6ced4dd919  | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-game-rule-api-v1-0.115.4.jar              |
+|    24 | Fabric Item API (v1)                   | fabric-item-api-v1                   | 11.1.1+d5debaed19  | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-item-api-v1-0.115.4.jar                   |
+|    25 | Fabric Item Group API (v1)             | fabric-item-group-api-v1             | 4.1.7+def88e3a19   | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-item-group-api-v1-0.115.4.jar             |
+|    34 | Fabric Lifecycle Events (v1)           | fabric-lifecycle-events-v1           | 2.5.0+01d9a51c19   | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-lifecycle-events-v1-0.115.4.jar           |
+|    17 | Fabric Loot API (v2)                   | fabric-loot-api-v2                   | 3.0.15+3f89f5a519  | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-loot-api-v2-0.115.4.jar                   |
+|    37 | Fabric Loot API (v3)                   | fabric-loot-api-v3                   | 1.0.3+3f89f5a519   | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-loot-api-v3-0.115.4.jar                   |
+|    27 | Fabric Message API (v1)                | fabric-message-api-v1                | 6.0.13+6573ed8c19  | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-message-api-v1-0.115.4.jar                |
+|    30 | Fabric Networking API (v1)             | fabric-networking-api-v1             | 4.3.0+c7469b2119   | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-networking-api-v1-0.115.4.jar             |
+|     6 | Fabric Object Builder API (v1)         | fabric-object-builder-api-v1         | 15.2.1+40875a9319  | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-object-builder-api-v1-0.115.4.jar         |
+|    11 | Fabric Particles (v1)                  | fabric-particles-v1                  | 4.0.2+6573ed8c19   | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-particles-v1-0.115.4.jar                  |
+|     9 | Fabric Recipe API (v1)                 | fabric-recipe-api-v1                 | 5.0.14+248df81c19  | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-recipe-api-v1-0.115.4.jar                 |
+|    38 | Fabric Registry Sync (v0)              | fabric-registry-sync-v0              | 5.2.0+34f5d91419   | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-registry-sync-v0-0.115.4.jar              |
+|    44 | Fabric Rendering Data Attachment (v1)  | fabric-rendering-data-attachment-v1  | 0.3.49+73761d2e19  | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-rendering-data-attachment-v1-0.115.4.jar  |
+|    28 | Fabric Rendering Fluids (v1)           | fabric-rendering-fluids-v1           | 3.1.6+1daea21519   | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-rendering-fluids-v1-0.115.4.jar           |
+|    16 | Fabric Resource Conditions API (v1)    | fabric-resource-conditions-api-v1    | 4.3.0+8dc279b119   | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-resource-conditions-api-v1-0.115.4.jar    |
+|    26 | Fabric Resource Loader (v0)            | fabric-resource-loader-v0            | 1.3.1+5b5275af19   | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-resource-loader-v0-0.115.4.jar            |
+|    19 | Fabric Screen Handler API (v1)         | fabric-screen-handler-api-v1         | 1.3.88+b559734419  | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-screen-handler-api-v1-0.115.4.jar         |
+|    29 | Fabric Transfer API (v1)               | fabric-transfer-api-v1               | 5.4.2+c24bd99419   | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-transfer-api-v1-0.115.4.jar               |
+|    41 | Fabric Transitive Access Wideners (v1) | fabric-transitive-access-wideners-v1 | 6.2.0+45b9699719   | Fabric  | 43fdbada15bacd5b1ec9deb9f7a27e558017f05b | <mods>\fabric-api-0.115.4+1.21.1.jar                                                    | /META-INF/jars/fabric-transitive-access-wideners-v1-0.115.4.jar |
+|    31 | Java HotSpot(TM) 64-Bit Server VM      | java                                 | 23                 | Builtin |                                          | C:\Program Files\Java\jdk-23                                                            |                                                                 |
+|    35 | Minecraft                              | minecraft                            | 1.21.1             | Builtin | f1469651088222d2a8a0634ba2c004e7819a170a | <game>\.cache\quilt_loader\remappedJars\minecraft-1.21.1-0.28.1\server-intermediary.jar |                                                                 |
+|     0 | mixinconstraints                       | com_moulberry_mixinconstraints       | 1.0.8              | Fabric  | f729b4a2de68174eaae6f3294e4f72f1fd798a14 | <mods>\Axiom-4.7.1-for-MC1.21.jar                                                       | /META-INF/jars/mixinconstraints-1.0.8.jar                       |
+|    12 | MixinExtras                            | mixinextras                          | 0.4.1              | Fabric  | 8d1a9e96afb990367fa1f904d17580d164da72e3 | <game>\libraries\org\quiltmc\quilt-loader\0.28.1\quilt-loader-0.28.1.jar                | /META-INF/jars/mixinextras-fabric-0.4.1.jar                     |
+|    20 | Quilt Loader                           | quilt_loader                         | 0.28.1             | Quilt   | 8d1a9e96afb990367fa1f904d17580d164da72e3 | <game>\libraries\org\quiltmc\quilt-loader\0.28.1\quilt-loader-0.28.1.jar                |                                                                 |
+|     2 | WorldEdit                              | worldedit                            | 7.3.5+6880-8ba3d89 | Fabric  | 294d5e52285315c896fbfa45c1829ff43650522f | <mods>\worldedit-mod-7.3.5.jar                                                          |                                                                 |
+|------:|----------------------------------------|--------------------------------------|--------------------|---------|------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+Mod Table Version: 2
+Plugin Types: {quilted_fabric_loader=[Fabric], quilt_loader=[Quilt, Builtin]}
+[21:46:55] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Max/PycharmProjects/testglackford/server/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Quilt Env=SERVER
+[21:46:55] [main/INFO]: Compatibility level set to JAVA_17
+[21:46:57] [main/INFO]: Loading Mixin Plugin for Axiom/4.7.1
+[21:46:57] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21:46:59] [main/WARN]: Failed to add PDH Counter: \Paging File(_Total)\% Usage, Error code: 0xC0000BB8
+[21:46:59] [main/WARN]: Failed to add counter for PDH counter: \Paging File(_Total)\% Usage
+[21:46:59] [main/WARN]: Disabling further attempts to query Paging File.
+[21:47:01] [main/WARN]: COM exception: Invalid Query: SELECT PERCENTUSAGE FROM Win32_PerfRawData_PerfOS_PagingFile
+[21:47:09] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1fe0c1dc]
+[21:47:09] [main/INFO]: WorldEdit for Fabric (version 7.3.5+6880-8ba3d89) is loaded
+[21:47:09] [main/INFO]: Initializing Axiom/4.7.1. Build timestamp: 1743402198437
+[21:47:09] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:47:09] [main/WARN]: Assets URL 'quilt.zfs://minecraft-1.21.1.i0:0/assets/.mcassetsroot' uses unexpected schema
+[21:47:09] [main/WARN]: Assets URL 'quilt.zfs://minecraft-1.21.1.i0:0/data/.mcassetsroot' uses unexpected schema
+[21:47:11] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[21:47:11] [main/INFO]: Loaded 1290 recipes
+[21:47:11] [main/INFO]: Loaded 1399 advancements
+[21:47:12] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.261 ms
+[21:47:12] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[21:47:12] [Server thread/INFO]: Loading properties
+[21:47:12] [Server thread/INFO]: Default game type: ADVENTURE
+[21:47:12] [Server thread/INFO]: Generating keypair
+[21:47:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:47:12] [Server thread/INFO]: Using default channel type
+[21:47:12] [Server thread/INFO]: Preparing level "world"
+[21:47:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:47:13] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:47:13] [Server thread/INFO]: Time elapsed: 424 ms
+[21:47:13] [Server thread/INFO]: Done (0.659s)! For help, type "help"
+[21:47:19] [User Authenticator #1/INFO]: UUID of player _ferly is 4b720b33-c081-4728-9c67-b95e5ef218d4
+[21:47:20] [Server thread/INFO]: _ferly[/127.0.0.1:57869] logged in with entity id 1 at (170.05704213517714, 61.85179490746325, 63.861514226061985)
+[21:47:20] [Server thread/INFO]: _ferly joined the game
+[21:47:32] [Server thread/INFO]: [_ferly: Set own game mode to Adventure Mode]
+[21:47:41] [Server thread/INFO]: Incorrect argument for command
+[21:47:41] [Server thread/INFO]: ...erly/deop ferly<--[HERE]
+[21:47:47] [Server thread/INFO]: Made _ferly no longer a server operator
+[21:47:49] [Server thread/INFO]: _ferly lost connection: Disconnected
+[21:47:49] [Server thread/INFO]: _ferly left the game
+[21:47:50] [User Authenticator #2/INFO]: UUID of player _ferly is 4b720b33-c081-4728-9c67-b95e5ef218d4
+[21:47:50] [Server thread/INFO]: Disconnecting _ferly (/127.0.0.1:57899): You are not white-listed on this server!
+[21:47:50] [Server thread/INFO]: _ferly (/127.0.0.1:57899) lost connection: You are not white-listed on this server!
+[21:47:50] [Server thread/WARN]: handleDisconnection() called twice
+[21:47:52] [User Authenticator #3/INFO]: UUID of player _ferly is 4b720b33-c081-4728-9c67-b95e5ef218d4
+[21:47:52] [Server thread/INFO]: Disconnecting _ferly (/127.0.0.1:57902): You are not white-listed on this server!
+[21:47:52] [Server thread/INFO]: _ferly (/127.0.0.1:57902) lost connection: You are not white-listed on this server!
+[21:47:52] [Server thread/WARN]: handleDisconnection() called twice
+[21:47:59] [Server thread/INFO]: Added _ferly to the whitelist
+[21:48:02] [User Authenticator #4/INFO]: UUID of player _ferly is 4b720b33-c081-4728-9c67-b95e5ef218d4
+[21:48:02] [Server thread/INFO]: _ferly[/127.0.0.1:57907] logged in with entity id 2 at (175.9871101056215, 28.0, 69.57772534796034)
+[21:48:02] [Server thread/INFO]: _ferly joined the game
+[21:48:20] [Server thread/INFO]: Unknown game mode: _ferly
+[21:48:20] [Server thread/INFO]: ...ode _ferly adventure<--[HERE]
+[21:48:25] [Server thread/INFO]: Made _ferly a server operator
+[21:48:29] [Server thread/INFO]: [_ferly: Set own game mode to Adventure Mode]
+[21:48:34] [Server thread/INFO]: Made _ferly no longer a server operator
+[21:48:37] [Server thread/INFO]: _ferly lost connection: Disconnected
+[21:48:37] [Server thread/INFO]: _ferly left the game
+[21:48:40] [User Authenticator #5/INFO]: UUID of player _ferly is 4b720b33-c081-4728-9c67-b95e5ef218d4
+[21:48:40] [Server thread/INFO]: _ferly[/127.0.0.1:57937] logged in with entity id 3 at (183.06597322524735, 28.0, 61.83930698580237)
+[21:48:40] [Server thread/INFO]: _ferly joined the game
+[21:49:04] [Server thread/INFO]: Made _ferly a server operator
+[21:49:10] [Server thread/INFO]: [_ferly: Set own game mode to Creative Mode]
+[21:49:13] [Server thread/INFO]: _ferly lost connection: Disconnected
+[21:49:13] [Server thread/INFO]: _ferly left the game
+[21:49:21] [User Authenticator #6/INFO]: UUID of player _ferly is 4b720b33-c081-4728-9c67-b95e5ef218d4
+[21:49:21] [Server thread/INFO]: _ferly[/127.0.0.1:57983] logged in with entity id 4 at (210.36007322216108, 41.972560385797216, 73.86003380962845)
+[21:49:21] [Server thread/INFO]: _ferly joined the game
+[21:50:14] [Server thread/INFO]: Stopping the server
+[21:50:14] [Server thread/INFO]: Stopping server
+[21:50:14] [Server thread/INFO]: Saving players
+[21:50:14] [Server thread/INFO]: Saving worlds
+[21:50:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:overworld
+[21:50:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:the_end
+[21:50:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:the_nether
+[21:50:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:50:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:50:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:50:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
