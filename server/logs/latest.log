@@ -1,8 +1,8 @@
-[21:46:53] [main/INFO]: Loading Minecraft 1.21.1 with Quilt Loader 0.28.1
-[21:46:53] [main/INFO]: Loading mappings: jar:file:/C:/Users/Max/PycharmProjects/testglackford/server/libraries/org/quiltmc/hashed/1.21.1/hashed-1.21.1.jar!/mappings/mappings.tiny
-[21:46:53] [main/INFO]: Skipping mappings: Missing namespace 'intermediary'
-[21:46:53] [main/INFO]: Loading mappings: jar:file:/C:/Users/Max/PycharmProjects/testglackford/server/libraries/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar!/mappings/mappings.tiny
-[21:46:55] [main/INFO]: Loading 45 mods:
+[12:27:50] [main/INFO]: Loading Minecraft 1.21.1 with Quilt Loader 0.28.1
+[12:27:50] [main/INFO]: Loading mappings: jar:file:/C:/Users/Max/PycharmProjects/testglackford/server/libraries/org/quiltmc/hashed/1.21.1/hashed-1.21.1.jar!/mappings/mappings.tiny
+[12:27:50] [main/INFO]: Skipping mappings: Missing namespace 'intermediary'
+[12:27:50] [main/INFO]: Loading mappings: jar:file:/C:/Users/Max/PycharmProjects/testglackford/server/libraries/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar!/mappings/mappings.tiny
+[12:27:52] [main/INFO]: Loading 45 mods:
 | Index | Mod                                    | ID                                   | Version            | Type    | File Hash (SHA-1)                        | File(s)                                                                                 | Sub-File                                                        |
 |------:|----------------------------------------|--------------------------------------|--------------------|---------|------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------|
 |    39 | Axiom                                  | axiom                                | 4.7.1              | Fabric  | f729b4a2de68174eaae6f3294e4f72f1fd798a14 | <mods>\Axiom-4.7.1-for-MC1.21.jar                                                       |                                                                 |
@@ -53,81 +53,47 @@
 |------:|----------------------------------------|--------------------------------------|--------------------|---------|------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------|
 Mod Table Version: 2
 Plugin Types: {quilted_fabric_loader=[Fabric], quilt_loader=[Quilt, Builtin]}
-[21:46:55] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Max/PycharmProjects/testglackford/server/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Quilt Env=SERVER
-[21:46:55] [main/INFO]: Compatibility level set to JAVA_17
-[21:46:57] [main/INFO]: Loading Mixin Plugin for Axiom/4.7.1
-[21:46:57] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[21:46:59] [main/WARN]: Failed to add PDH Counter: \Paging File(_Total)\% Usage, Error code: 0xC0000BB8
-[21:46:59] [main/WARN]: Failed to add counter for PDH counter: \Paging File(_Total)\% Usage
-[21:46:59] [main/WARN]: Disabling further attempts to query Paging File.
-[21:47:01] [main/WARN]: COM exception: Invalid Query: SELECT PERCENTUSAGE FROM Win32_PerfRawData_PerfOS_PagingFile
-[21:47:09] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1fe0c1dc]
-[21:47:09] [main/INFO]: WorldEdit for Fabric (version 7.3.5+6880-8ba3d89) is loaded
-[21:47:09] [main/INFO]: Initializing Axiom/4.7.1. Build timestamp: 1743402198437
-[21:47:09] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:47:09] [main/WARN]: Assets URL 'quilt.zfs://minecraft-1.21.1.i0:0/assets/.mcassetsroot' uses unexpected schema
-[21:47:09] [main/WARN]: Assets URL 'quilt.zfs://minecraft-1.21.1.i0:0/data/.mcassetsroot' uses unexpected schema
-[21:47:11] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
-[21:47:11] [main/INFO]: Loaded 1290 recipes
-[21:47:11] [main/INFO]: Loaded 1399 advancements
-[21:47:12] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.261 ms
-[21:47:12] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[21:47:12] [Server thread/INFO]: Loading properties
-[21:47:12] [Server thread/INFO]: Default game type: ADVENTURE
-[21:47:12] [Server thread/INFO]: Generating keypair
-[21:47:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:47:12] [Server thread/INFO]: Using default channel type
-[21:47:12] [Server thread/INFO]: Preparing level "world"
-[21:47:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:47:13] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[21:47:13] [Server thread/INFO]: Time elapsed: 424 ms
-[21:47:13] [Server thread/INFO]: Done (0.659s)! For help, type "help"
-[21:47:19] [User Authenticator #1/INFO]: UUID of player _ferly is 4b720b33-c081-4728-9c67-b95e5ef218d4
-[21:47:20] [Server thread/INFO]: _ferly[/127.0.0.1:57869] logged in with entity id 1 at (170.05704213517714, 61.85179490746325, 63.861514226061985)
-[21:47:20] [Server thread/INFO]: _ferly joined the game
-[21:47:32] [Server thread/INFO]: [_ferly: Set own game mode to Adventure Mode]
-[21:47:41] [Server thread/INFO]: Incorrect argument for command
-[21:47:41] [Server thread/INFO]: ...erly/deop ferly<--[HERE]
-[21:47:47] [Server thread/INFO]: Made _ferly no longer a server operator
-[21:47:49] [Server thread/INFO]: _ferly lost connection: Disconnected
-[21:47:49] [Server thread/INFO]: _ferly left the game
-[21:47:50] [User Authenticator #2/INFO]: UUID of player _ferly is 4b720b33-c081-4728-9c67-b95e5ef218d4
-[21:47:50] [Server thread/INFO]: Disconnecting _ferly (/127.0.0.1:57899): You are not white-listed on this server!
-[21:47:50] [Server thread/INFO]: _ferly (/127.0.0.1:57899) lost connection: You are not white-listed on this server!
-[21:47:50] [Server thread/WARN]: handleDisconnection() called twice
-[21:47:52] [User Authenticator #3/INFO]: UUID of player _ferly is 4b720b33-c081-4728-9c67-b95e5ef218d4
-[21:47:52] [Server thread/INFO]: Disconnecting _ferly (/127.0.0.1:57902): You are not white-listed on this server!
-[21:47:52] [Server thread/INFO]: _ferly (/127.0.0.1:57902) lost connection: You are not white-listed on this server!
-[21:47:52] [Server thread/WARN]: handleDisconnection() called twice
-[21:47:59] [Server thread/INFO]: Added _ferly to the whitelist
-[21:48:02] [User Authenticator #4/INFO]: UUID of player _ferly is 4b720b33-c081-4728-9c67-b95e5ef218d4
-[21:48:02] [Server thread/INFO]: _ferly[/127.0.0.1:57907] logged in with entity id 2 at (175.9871101056215, 28.0, 69.57772534796034)
-[21:48:02] [Server thread/INFO]: _ferly joined the game
-[21:48:20] [Server thread/INFO]: Unknown game mode: _ferly
-[21:48:20] [Server thread/INFO]: ...ode _ferly adventure<--[HERE]
-[21:48:25] [Server thread/INFO]: Made _ferly a server operator
-[21:48:29] [Server thread/INFO]: [_ferly: Set own game mode to Adventure Mode]
-[21:48:34] [Server thread/INFO]: Made _ferly no longer a server operator
-[21:48:37] [Server thread/INFO]: _ferly lost connection: Disconnected
-[21:48:37] [Server thread/INFO]: _ferly left the game
-[21:48:40] [User Authenticator #5/INFO]: UUID of player _ferly is 4b720b33-c081-4728-9c67-b95e5ef218d4
-[21:48:40] [Server thread/INFO]: _ferly[/127.0.0.1:57937] logged in with entity id 3 at (183.06597322524735, 28.0, 61.83930698580237)
-[21:48:40] [Server thread/INFO]: _ferly joined the game
-[21:49:04] [Server thread/INFO]: Made _ferly a server operator
-[21:49:10] [Server thread/INFO]: [_ferly: Set own game mode to Creative Mode]
-[21:49:13] [Server thread/INFO]: _ferly lost connection: Disconnected
-[21:49:13] [Server thread/INFO]: _ferly left the game
-[21:49:21] [User Authenticator #6/INFO]: UUID of player _ferly is 4b720b33-c081-4728-9c67-b95e5ef218d4
-[21:49:21] [Server thread/INFO]: _ferly[/127.0.0.1:57983] logged in with entity id 4 at (210.36007322216108, 41.972560385797216, 73.86003380962845)
-[21:49:21] [Server thread/INFO]: _ferly joined the game
-[21:50:14] [Server thread/INFO]: Stopping the server
-[21:50:14] [Server thread/INFO]: Stopping server
-[21:50:14] [Server thread/INFO]: Saving players
-[21:50:14] [Server thread/INFO]: Saving worlds
-[21:50:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:overworld
-[21:50:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:the_end
-[21:50:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:the_nether
-[21:50:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:50:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:50:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:50:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:27:53] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Max/PycharmProjects/testglackford/server/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Quilt Env=SERVER
+[12:27:53] [main/INFO]: Compatibility level set to JAVA_17
+[12:27:55] [main/INFO]: Loading Mixin Plugin for Axiom/4.7.1
+[12:27:55] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[12:27:58] [main/WARN]: Failed to add PDH Counter: \Paging File(_Total)\% Usage, Error code: 0xC0000BB8
+[12:27:58] [main/WARN]: Failed to add counter for PDH counter: \Paging File(_Total)\% Usage
+[12:27:58] [main/WARN]: Disabling further attempts to query Paging File.
+[12:28:01] [main/WARN]: COM exception: Invalid Query: SELECT PERCENTUSAGE FROM Win32_PerfRawData_PerfOS_PagingFile
+[12:28:12] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4746ef6b]
+[12:28:12] [main/INFO]: WorldEdit for Fabric (version 7.3.5+6880-8ba3d89) is loaded
+[12:28:12] [main/INFO]: Initializing Axiom/4.7.1. Build timestamp: 1743402198437
+[12:28:12] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:28:12] [main/WARN]: Assets URL 'quilt.zfs://minecraft-1.21.1.i0:0/assets/.mcassetsroot' uses unexpected schema
+[12:28:12] [main/WARN]: Assets URL 'quilt.zfs://minecraft-1.21.1.i0:0/data/.mcassetsroot' uses unexpected schema
+[12:28:15] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[12:28:15] [main/INFO]: Loaded 1290 recipes
+[12:28:16] [main/INFO]: Loaded 1399 advancements
+[12:28:17] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.877 ms
+[12:28:17] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[12:28:17] [Server thread/INFO]: Loading properties
+[12:28:17] [Server thread/INFO]: Default game type: ADVENTURE
+[12:28:17] [Server thread/INFO]: Generating keypair
+[12:28:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:28:17] [Server thread/INFO]: Using default channel type
+[12:28:18] [Server thread/INFO]: Preparing level "world"
+[12:28:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:28:18] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:28:18] [Worker-Main-4/INFO]: Preparing spawn area: 18%
+[12:28:18] [Server thread/INFO]: Time elapsed: 569 ms
+[12:28:18] [Server thread/INFO]: Done (0.825s)! For help, type "help"
+[12:28:36] [User Authenticator #1/INFO]: UUID of player _ferly is 4b720b33-c081-4728-9c67-b95e5ef218d4
+[12:28:39] [Server thread/INFO]: _ferly[/127.0.0.1:49681] logged in with entity id 1 at (148.33377303407897, 58.60943005268295, 123.636213353141)
+[12:28:39] [Server thread/INFO]: _ferly joined the game
+[12:29:27] [Server thread/INFO]: Stopping the server
+[12:29:27] [Server thread/INFO]: Stopping server
+[12:29:27] [Server thread/INFO]: Saving players
+[12:29:27] [Server thread/INFO]: Saving worlds
+[12:29:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:overworld
+[12:29:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:the_nether
+[12:29:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:the_end
+[12:29:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:29:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:29:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:29:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
